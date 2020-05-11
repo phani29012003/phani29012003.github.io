@@ -3,7 +3,7 @@ body{
 	font-family: calibri;
 
 }
-header{
+#top{
 	background-color: yellow;
 }
 .img{
@@ -26,6 +26,7 @@ ul{
 	font-weight: bolder;
 	
 }
-button{
-	background-color: black;
+.col-md-4{
+      height:120px;
+      margin:auto;
 }
